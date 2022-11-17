@@ -33,7 +33,7 @@
 }
 .toggle-menu {
   position: absolute;
-  top: 16px;
+  top: 25px;
   right: 30px;
   width: 40px;
   height: 40px;
@@ -78,7 +78,11 @@
   height: 100%;
 }
 .wrapper{
-  margin: 20px;
+  margin: 40px;
+}
+.form-wrapper {
+    box-shadow: rgb(102, 17, 74);
+    border-color: blueviolet;
 }
 
 @media (max-width: 768px) {
